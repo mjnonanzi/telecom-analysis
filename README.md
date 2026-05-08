@@ -186,12 +186,6 @@ Estos usuarios podrían representar:
 
 # Cómo Ejecutar el Proyecto
 
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
-
-O:
-
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
