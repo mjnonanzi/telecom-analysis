@@ -138,7 +138,7 @@ Los usuarios fueron clasificados en:
 
 ---
 
-# 🔍 Hallazgos Principales
+# Hallazgos Principales
 
 ## Plan Básico
 - Mayor volumen de usuarios.
@@ -175,7 +175,7 @@ Estos usuarios podrían representar:
 
 ---
 
-# 📈 Insights Relevantes
+# Insights Relevantes
 
 - Los usuarios Premium presentan mayor consumo de minutos.
 - El plan Básico domina en cantidad de clientes.
@@ -184,25 +184,25 @@ Estos usuarios podrían representar:
 
 ---
 
-# ▶️ Cómo Ejecutar el Proyecto
+# Cómo Ejecutar el Proyecto
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://github.com/mjnonanzi/telecom-analysis/blob/main/data_clean_connectatel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 O:
 
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
-## 📘 Cómo reproducir el análisis
+## Cómo reproducir el análisis
 
 1. Abre `data_clean_connectatel.ipynb`
 2. Ejecuta las celdas en orden
 
 ---
 
-# 📁 Estructura del Proyecto
+# Estructura del Proyecto
 
 ```bash
 ├── data/
