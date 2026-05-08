@@ -1,6 +1,6 @@
 # ConnectaTel - Análisis de Comportamiento de Clientes
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto analiza el comportamiento de los clientes de **ConnectaTel**, una empresa de telecomunicaciones en Latinoamérica.
 
@@ -14,7 +14,7 @@ El análisis se realiza con información registrada hasta el año **2024**.
 
 ---
 
-# 🗂️ Datasets Utilizados
+# Datasets Utilizados
 
 ## `plans.csv`
 Contiene información de los planes telefónicos:
@@ -45,7 +45,7 @@ Registros detallados de uso:
 
 ---
 
-# 🛠️ Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 - Python
 - Pandas
@@ -56,7 +56,7 @@ Registros detallados de uso:
 
 ---
 
-# 📊 Etapas del Análisis
+# Etapas del Análisis
 
 ## 1. Carga y Exploración de Datos
 - Importación de datasets.
@@ -118,8 +118,7 @@ Se analizaron:
 Se desarrollaron:
 - histogramas,
 - curvas KDE,
-- boxplots,
-- gráficos de segmentación.
+- boxplots.
 
 Variables analizadas:
 - edad,
@@ -136,12 +135,6 @@ Los usuarios fueron clasificados en:
 - Bajo uso
 - Uso medio
 - Alto uso
-
-### Segmentación por Edad
-Los usuarios fueron clasificados en:
-- Joven
-- Adulto
-- Adulto Mayor
 
 ---
 
@@ -195,7 +188,7 @@ Estos usuarios podrían representar:
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/github/mjnonanzi/telecom-analysis/blob/main/data_clean_connectatel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://github.com/mjnonanzi/telecom-analysis/blob/main/data_clean_connectatel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 O:
 
